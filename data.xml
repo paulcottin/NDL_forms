@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+  <forms>
+    <form id="0">
+      <nom>Newsletter (réponses)</nom>
+      <googleKey>1GyXB0RR_PGAx3VghrNV-u8bzy6ZwN31vfOvGtgnDu4Y</googleKey>
+      <nomTable>InscriptionNewsletter</nomTable>
+    </form>
+    <form id="1">
+      <nom>Demande de messe (réponses)</nom>
+      <googleKey>1QpAIyv12L0RLPa7N1iJUaFwNXUVG5B4c6Mflc4e0EY0</googleKey>
+      <nomTable>Demande_de_messe</nomTable>
+    </form>
+    <form id="2">
+      <nom>Catéchisme (réponses)</nom>
+      <googleKey>1k-24iP-M5jBpHlbG86SeEuotDnKxoD81ZfWNuzYVapQ</googleKey>
+      <nomTable>Catéchisme</nomTable>
+    </form>
+    <form id="3">
+      <nom>Catéchisme_Secondaire (réponses)</nom>
+      <googleKey>1Ee92DyUPZfji77IoAPfeXmFmAEqNlTDXuFQu4POMvQg</googleKey>
+      <nomTable>detgr</nomTable>
+    </form>
+    <form id="4">
+      <nom>Catéchisme_Secondaire (réponses)</nom>
+      <googleKey>1Ee92DyUPZfji77IoAPfeXmFmAEqNlTDXuFQu4POMvQg</googleKey>
+      <nomTable>caté_2</nomTable>
+    </form>
+  </forms>
+  <dbName>C:\Users\polob\Documents\Formulaires.accdb</dbName>
+  <dbPass />
+</data>
+
